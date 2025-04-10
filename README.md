@@ -1,4 +1,4 @@
-# 🧊 Air Cube
+# Air Cube
 
 **Immerse yourself in a completely new experience of solving a Rubik’s Cube — virtually, with hand gestures!**
 
@@ -8,7 +8,7 @@
 
 - Run the game using the `main.py` file.
 - Alternatively, you can start with `intro.py`, which loads a landing page and redirects to `main.py`.  
-  ⚠️ However, `intro.py` might face compatibility issues depending on your system and libraries. If so, proceed directly with `main.py`.
+  However, `intro.py` might face compatibility issues depending on your system and libraries. If so, proceed directly with `main.py`.
 
 ---
 
@@ -50,21 +50,21 @@ Just like a traditional Rubik’s Cube, the goal is to return the cube to a stat
 
 ---
 
-## 📹 Demonstration
+## Demonstration
 
 - [**Gameplay Demo**](https://drive.google.com/file/d/1xxBqRjJumUJq-gjA4iLhlUi-UUqtJMra/view?usp=drive_link)  
 - [**Hand Gesture Instructions**](https://drive.google.com/file/d/1yPrervpLMQ_1p7VG5yfzrDntrbdN3X_9/view?usp=drive_link)
 
 ---
 
-## ⚠️ Known Issues
+## ⚠Known Issues
 
 - Some hand gestures may **not work** reliably due to **unresolved bugs** and **limited debugging time**.
 - Make sure your camera is functioning and well-lit for gesture detection.
 
 ---
 
-## 🧠 Fun Fact
+## Fun Fact
 
 > Aaron can solve a Rubik’s Cube in 18 seconds.  
 > **How long will you take to master the Air Cube?**

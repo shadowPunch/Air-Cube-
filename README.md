@@ -91,9 +91,3 @@ Just like a traditional Rubik’s Cube, the goal is to return the cube to a stat
 - Some hand gestures may **not work** reliably due to **unresolved bugs** and **limited debugging time**.
 - Make sure your camera is functioning and well-lit for gesture detection.
 
----
-
-## Fun Fact
-
-> Aaron can solve a Rubik’s Cube in 18 seconds.  
-> **How long will you take to master the Air Cube?**

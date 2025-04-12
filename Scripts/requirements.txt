@@ -1,1 +1,8 @@
+opencv-python
+mediapipe
+pynput
+pyautogui
+kociemba
+vpython
+pillow
 

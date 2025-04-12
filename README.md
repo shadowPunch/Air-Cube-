@@ -3,7 +3,36 @@
 **Immerse yourself in a completely new experience of solving a Rubik’s Cube — virtually, with hand gestures!**
 
 ---
+## Features
 
+- **Gesture-based Cube Manipulation**  
+  Rotate each layer using intuitive hand gestures.
+
+- **3D Cube Visualization**  
+  Real-time animated 3D Rubik’s Cube using VPython.
+
+- **Auto-Solver**  
+  Solves the cube using the Kociemba two-phase algorithm.
+
+- **Interactive GUI**  
+  Animated intro screen built with Tkinter to launch the app.
+
+---
+### Modules Breakdown
+
+- **`intro.py`**  
+  Animated Tkinter GUI that starts the simulation.
+
+- **`main.py`**  
+  Real-time gesture tracking with MediaPipe and OpenCV.
+
+- **`cube.py`**  
+  Handles cube state, rotations, solving logic, and 3D rendering with VPython.
+
+- **`solve_rubiccs_cube.py`**  
+  Maps 3D tile positions to color codes and solves the cube using `kociemba`.
+
+---
 ## How to Run
 
 - Run the game using the `main.py` file.

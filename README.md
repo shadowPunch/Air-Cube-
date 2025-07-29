@@ -1,6 +1,7 @@
 # Air Cube
 
 **Immerse yourself in a completely new experience of solving a Rubik’s Cube — virtually, with hand gestures!**
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/86357cec-0430-4d57-a8f1-3b682bd3773a" />
 
 ---
 ## Features
